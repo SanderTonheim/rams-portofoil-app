@@ -47,11 +47,7 @@ export const TextWrapper = styled.div`
 	flex-direction: column;
 	gap: 1.2rem;
 
-	.hero-buttons {
-		display: flex;
-		flex-direction: column;
-		gap: 1rem;
-	}
+	
 
 	#sign-up {
 		font-size: 1.4rem;
